@@ -9,3 +9,4 @@ const funct2 = () =>{
     console.log("This ia another placeholder.")
 }
 
+ funct2();
